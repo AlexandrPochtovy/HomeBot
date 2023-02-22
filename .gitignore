@@ -1,3 +1,5 @@
+.settings/
+/Release/
 /Debug/
 /STM32F411CEUX_RAM.ld
 /STM32F411CEUX_FLASH.ld
